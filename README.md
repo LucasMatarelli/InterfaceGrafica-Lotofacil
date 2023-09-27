@@ -20,3 +20,7 @@ Apostar de 0 a 100: Implementar a funcionalidade de permitir que os jogadores fa
 Apostar de A à Z: Implementar a funcionalidade de permitir que os jogadores façam uma aposta em uma letra de A à Z (maiúscula ou minúscula). Verificar se a aposta é válida e compará-la com uma letra premiada. Exibir uma mensagem de vitória ou derrota.
 
 Apostar em par ou ímpar: Implementar a funcionalidade de permitir que os jogadores façam uma aposta em um número inteiro e verificar se é par ou ímpar. Exibir uma mensagem de vitória se o número for par e de derrota se for ímpar.
+
+# AUTOR
+Nome: Lucas Soares Matarelli 
+Contato: lucas@matarelli.com.br
