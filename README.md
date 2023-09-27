@@ -2,7 +2,7 @@
 Atividade de Interface Gráfica - Projeto Lotofácil
 Esta é uma atividade de desenvolvimento de interface gráfica em Java que envolve a criação de um jogo de loteria chamado LOTOFÁCIL. Nesta atividade foi feita uma interface gráfica simples usando a biblioteca Swing do Java.
 
-Objetivos
+# Objetivos
 Implementar uma interface gráfica usando o Swing para interagir com o usuário.
 Praticar o uso de botões, caixas de diálogo e campos de texto em uma interface gráfica.
 Desenvolver um jogo de loteria completo com regras de negócios para diferentes tipos de apostas.
